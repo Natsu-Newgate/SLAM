@@ -2,6 +2,8 @@
 
 ## 运动学
 
+<a href = "https://blog.csdn.net/qq_41839222/article/details/89946719">视觉SLAM——二维三维几何、三维空间刚体变换</a>
+
 <a href = "https://blog.csdn.net/weixin_43569276/article/details/106176066">SLAM基础——四元数（含四元数对时间的导数）</a>
 
 <a href = "https://zhuanlan.zhihu.com/p/662757303">机器人理论杂记 四元数，四元数的导数，四元数的误差表示</a>      
